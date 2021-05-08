@@ -1,0 +1,1 @@
+export const firstPanelAmt = 332000
